@@ -1,6 +1,5 @@
 # Maximización de Inventario y UX en E-commerce: Análisis de +4.5M de Registros
 
-README.md: Documentación del proyecto.
 ## 🎯 Objetivo del Proyecto
 El propósito de este proyecto es transformar volúmenes masivos de datos operativos en inteligencia estratégica para optimizar el ciclo de vida del pedido y mejorar la retención de clientes. Como Ingeniera Industrial, apliqué un enfoque de eficiencia operativa para identificar patrones de demanda y priorizar productos críticos en una plataforma de e-commerce.
 
